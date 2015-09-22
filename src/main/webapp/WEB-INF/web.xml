@@ -6,7 +6,7 @@
     </servlet>
     <servlet>
         <servlet-name>ObtenerMomentosServlet</servlet-name>
-        <servlet-class>pe.edu.ulima.chorreandobackend.controllers.momentos.ObtenerMomentosServlet</servlet-class>
+        <servlet-class>pe.edu.ulima.chorreandobackend.controllers.momentos.MomentosServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>LoginServlet</servlet-name>
